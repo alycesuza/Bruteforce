@@ -44,7 +44,7 @@ else
         fi
     
         ((n++))
-        echo " carreganndo : [$n]de[$i] "
+        echo " carregando : [$n]de[$i] "
     done 
     echo " Fim!"
     echo " Obs. : Lista salva em file.txt"
