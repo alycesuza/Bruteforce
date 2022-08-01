@@ -1,4 +1,6 @@
-# Definição de Ataque de Força Bruta (Bruteforce) 
+# Ataque de Força Bruta (Bruteforce)
+
+<h2> Definição </h2> 
 
 Um ataque de força bruta é um método que usa tentativa e erro para quebrar senhas, credenciais de login e chaves de criptografia. É uma tática simples, porém confiável, para obter acesso não autorizado a contas individuais e sistemas e redes de organizações. O cibercriminoso tenta vários nomes de usuário e senhas, geralmente usando um computador para testar uma ampla variedade de combinações, até encontrar as informações de login corretas.
 
