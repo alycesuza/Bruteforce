@@ -65,3 +65,11 @@ Não faz sentido os usuários seguirem as melhores práticas de senha forte se s
 
 7. Remova contas não utilizadas: contas não utilizadas ou não mantidas oferecem uma porta aberta para os criminosos cibernéticos lançarem um ataque contra uma organização. As empresas devem garantir que removam regularmente contas não utilizadas ou, idealmente, removam contas assim que os funcionários deixarem a organização para evitar que sejam usadas em um ataque de força bruta. Isso é especialmente importante para funcionários com status de permissão de alto nível ou direitos de acesso a informações corporativas confidenciais.
 
+
+<h2> Praticando </h2> 
+
+Writup de laboratorios utilizando bruteforce : https://github.com/alycesuza/Bruteforce/blob/main/exercícios.md
+Script : https://github.com/alycesuza/Bruteforce/blob/main/bruteforce.sh
+Wordlists :
+https://github.com/alycesuza/Bruteforce/blob/main/bruteforce.sh
+https://github.com/alycesuza/Bruteforce/blob/main/listarapida.txt
