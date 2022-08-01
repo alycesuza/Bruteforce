@@ -68,8 +68,8 @@ Não faz sentido os usuários seguirem as melhores práticas de senha forte se s
 
 <h2> Praticando </h2> 
 
-Writup de laboratorios utilizando bruteforce : https://github.com/alycesuza/Bruteforce/blob/main/exercícios.md
-Script : https://github.com/alycesuza/Bruteforce/blob/main/bruteforce.sh
-Wordlists :
+1. Writup de laboratorios utilizando bruteforce : https://github.com/alycesuza/Bruteforce/blob/main/exercícios.md
+2. Script : https://github.com/alycesuza/Bruteforce/blob/main/bruteforce.sh
+3. Wordlists :
 https://github.com/alycesuza/Bruteforce/blob/main/bruteforce.sh
 https://github.com/alycesuza/Bruteforce/blob/main/listarapida.txt
